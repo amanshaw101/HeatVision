@@ -1,4 +1,4 @@
-# Weak Supervision for Urban Heat Island Segmentation Using Physics-Derived Pseudo-Labels
+#  Urban Heat Island Detection Using U-Net
 
 A physics-guided deep learning approach that automatically detects Urban Heat Islands (UHI) from raw Landsat satellite imagery — without requiring any manual annotation.
 
