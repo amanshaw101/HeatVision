@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Large data and checkpoints
+data/
+checkpoints/
+*.pth
+INTERRUPTED.pth
+
+# Logs
+*.log
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+__MACOSX/

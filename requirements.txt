@@ -1,0 +1,11 @@
+rasterio
+numpy
+matplotlib
+torch
+torchvision
+scikit-learn
+tqdm
+opencv-python
+streamlit
+scipy
+pandas
